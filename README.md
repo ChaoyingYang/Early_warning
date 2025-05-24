@@ -22,7 +22,7 @@ This project only provides the data and related codes used in the paper that all
 
 This repository is organized as:
 - [code](https://github.com/ChaoyingYang/SuperGraph/tree/master/code) contains the corresonding codes.
-
+- [data](https://github.com/ChaoyingYang/SuperGraph/tree/master/data) only contains the data for hust2 dataset and code for preprocessing isea and mit dataset.
 
 
 ## Usage
