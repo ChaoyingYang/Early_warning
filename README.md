@@ -23,7 +23,7 @@ This project only provides the data and related codes used in the paper that all
 
 This repository is organized as:
 - [code](https://github.com/ChaoyingYang/Early_warning/tree/main/code) contains the corresonding codes.
-- [data](https://github.com/ChaoyingYang/Early_warning/tree/main/data) only contains the data for hust2 dataset and code for preprocessing isea and mit dataset.
+- [data](https://github.com/ChaoyingYang/Early_warning/tree/main/data) only contains the data for hust1 dataset, tongji dataset and code for preprocessing isea and mit dataset.
 
 
 ## Usage
