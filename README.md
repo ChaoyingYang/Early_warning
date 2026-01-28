@@ -1,6 +1,6 @@
 ## Early-warning
 Early warning of battery knee point
-Codes are released for paper entitled "Early Warning of Battery Knee Point Using a Mechanistic-Empirical Model", and this paper is revised in XX.
+Codes are released for paper entitled "Universal Early-Warning Law for Nonlinear Degradation in Lithium-ion Batteries", and this paper is revised in XX.
 
 ## Guide
 This project only provides the data and related codes used in the paper that allows anyone to reproduce all results presented in the paper. All algorithms were written by python 3.8.
@@ -17,6 +17,7 @@ This project only provides the data and related codes used in the paper that all
 - **[HUST2 Dataset](https://doi.org/10.17632/nsc7hnsg4s.2)**
 - **[ISEA Dataset](https://git.rwth-aachen.de/isea/battery-degradation-trajectory-prediction)**
 - **[MIT Dataset](https://data.matr.io/1)**
+- **[Tongji Dataset](https://1drv.ms/f/s!AuAiTLYEMUuKbLRMwP_d3RbUFs4?e=LL44SK)**
 
 ## Pakages
 
@@ -35,11 +36,11 @@ This repository is organized as:
 ## Citation
 Paper:
 ```
-@article{Yang2021,
-  title={Early Warning of Battery Knee Point Using a Mechanistic-Empirical Model},
+@article{Yang2026,
+  title={Universal Early-Warning Law for Nonlinear Degradation in Lithium-ion Batteries},
   author={Chaoying Yang, xx},
   journal={xx},
-  year={202x},
+  year={2026},
   doi={xx},
   url={xx},
 }
