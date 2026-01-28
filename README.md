@@ -14,6 +14,7 @@ This project only provides the data and related codes used in the paper that all
 
 
 ## Datasets
+- **[HUST1 Dataset](https://github.com/ChaoyingYang/Early_warning/tree/main/Data/hust1_data)**
 - **[HUST2 Dataset](https://doi.org/10.17632/nsc7hnsg4s.2)**
 - **[ISEA Dataset](https://git.rwth-aachen.de/isea/battery-degradation-trajectory-prediction)**
 - **[MIT Dataset](https://data.matr.io/1)**
@@ -22,8 +23,8 @@ This project only provides the data and related codes used in the paper that all
 ## Pakages
 
 This repository is organized as:
-- [code](https://github.com/ChaoyingYang/Early_warning/tree/main/code) contains the corresonding codes.
-- [data](https://github.com/ChaoyingYang/Early_warning/tree/main/data) only contains the data for hust1 dataset, tongji dataset and code for preprocessing isea and mit dataset.
+- [code](https://github.com/ChaoyingYang/Early_warning/tree/main/Code) contains the corresonding codes.
+- [data](https://github.com/ChaoyingYang/Early_warning/tree/main/Data) only contains the data for hust1 dataset, tongji dataset and code for preprocessing isea and mit dataset.
 
 
 ## Usage
