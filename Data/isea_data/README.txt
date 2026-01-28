@@ -1,0 +1,1 @@
+Please download the dataset at https://git.rwth-aachen.de/isea/battery-degradation-trajectory-prediction, then run the pre_nmc_isea_data.py.
