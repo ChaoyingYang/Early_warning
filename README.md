@@ -1,6 +1,6 @@
 ## Early-warning
 Early warning of battery knee point
-Codes are released for paper entitled "Universal Early-Warning Law for Nonlinear Degradation in Lithium-ion Batteries", and this paper is revised in XX.
+Codes are released for paper entitled "Physics-informed early warning of critical transitions in battery degradation dynamics", and this paper is revised in XX.
 
 ## Guide
 This project only provides the data and related codes used in the paper that allows anyone to reproduce all results presented in the paper. All algorithms were written by python 3.8.
@@ -38,8 +38,8 @@ This repository is organized as:
 Paper:
 ```
 @article{Yang2026,
-  title={Universal Early-Warning Law for Nonlinear Degradation in Lithium-ion Batteries},
-  author={Chaoying Yang, xx},
+  title={Physics-informed early warning of critical transitions in battery degradation dynamics},
+  author={Chaoying Yang, Gunjun Ma, Xueming Liu, Cheng Cheng, Zuogong Yue, Hai-Tao Zhang, Han Ding, Yifei Yu, Yunhui Huang, Ye Yuan},
   journal={xx},
   year={2026},
   doi={xx},
@@ -48,7 +48,7 @@ Paper:
 ```
 
 ## Contact
-Chaoying Yang - yangcy@hust.edu.cn 
- 
-Ye Yuan - yye@hust.edu.cn
+- Chaoying Yang: yangcy@hust.edu.cn 
+- Xueming Liu: xm_liu@hust.edu.cn
+- Ye Yuan: yye@hust.edu.cn
 
