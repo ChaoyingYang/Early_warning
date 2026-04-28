@@ -48,7 +48,7 @@ Paper:
 ```
 
 ## Contact
-Chaoying Yang - yangcy@hust.edu.cn 
-Xueming Liu - xm_liu@hust.edu.cn
-Ye Yuan - yye@hust.edu.cn
+- Chaoying Yang - yangcy@hust.edu.cn 
+- Xueming Liu - xm_liu@hust.edu.cn
+- Ye Yuan - yye@hust.edu.cn
 
