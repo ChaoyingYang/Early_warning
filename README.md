@@ -1,6 +1,6 @@
 ## Early-warning
 Early warning of battery knee point
-Codes are released for paper entitled "Universal Early-Warning Law for Nonlinear Degradation in Lithium-ion Batteries", and this paper is revised in XX.
+Codes are released for paper entitled "Physics-informed early warning of critical transitions in battery degradation dynamics", and this paper is revised in XX.
 
 ## Guide
 This project only provides the data and related codes used in the paper that allows anyone to reproduce all results presented in the paper. All algorithms were written by python 3.8.
